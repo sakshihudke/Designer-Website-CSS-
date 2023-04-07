@@ -1,0 +1,126 @@
+body{
+    background-color:#FCF8E8;
+    text-align: center ;
+    font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+.sakshi{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+#web{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.icons{
+    width: 130px;
+}
+hr{
+    border-style: none;
+    border-top-style:dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+.top{
+    position: relative;
+    padding-top: 100px;
+    background-color: #CDF0EA;
+
+}
+.middle{
+    background-color:red;
+    width: 200px;
+    height: 200px;
+}
+.bottom {
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+}
+.stu{
+    text-decoration: underline;
+}
+.bottomcloud{
+    position: absolute;
+    left: 320px;
+    bottom: 300px;
+}
+.topcloud{
+    position:absolute;
+    right: 320px;
+    top:  60px;
+}
+.land{
+    position: relative;
+    top: 4px;
+}
+.hi{
+    color: #FF5D5D;
+}
+.what{
+    color: #FF5D5D;
+    position: relative;
+    left: 40px;
+}
+.design{
+    color:#FF7396;
+    position: relative;
+    left: 200px;
+}
+.cdn{
+    width: 130px;
+    position: relative;
+    right: 200px;
+    bottom: 140px;
+
+}
+.like{
+    padding-left:550px;
+}
+.develop{
+    color:#FF7396;
+    position: relative;
+    right: 250px;
+    bottom: 50px;
+}
+.developer{
+    padding-right: 450px;
+    position: relative;
+    bottom: 80px;
+}
+.hr{
+    position: relative;
+    bottom: 150px;
+}
+.flaticon{
+    width: 130px;
+    position: relative;
+    left: 280px;
+    bottom: 250px;
+}
+.help{
+    color:#FF5D5D ;
+    position: relative;
+    bottom: 130px;
+}
+.freelance{
+    color:#FF7396;
+    position: relative;
+    bottom: 150px;
+}
+.project{
+    position: relative;
+    bottom: 150px;
+}
+.btn{
+    position: relative;
+    bottom: 130px;
+}
+.footer-link{
+    position: relative;
+    bottom: 120px;
+}
+.name{
+    position: relative;
+    bottom: 120px;
+}
